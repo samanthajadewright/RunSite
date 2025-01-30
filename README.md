@@ -2,6 +2,9 @@
 
 Welcome to my project! 🎉 This has been an exciting and challenging learning journey where I applied many of the skills I developed through the Code Institute curriculum. The approach I used to build this project was a mix of copying examples and then tweaking them to fit my understanding and goals, helping me grasp coding principles deeply.
 
+## Link To View Live Project
+ https://samanthajadewright.github.io/RunSite/ 
+
 ##  About the Project
 
 The goal of this website was to create something **simple**, **functional**, and **user-friendly**. I focused on making it easy for users to find the information they need without unnecessary complexity. **Simplicity** and **usability** were the main principles I followed during development.
